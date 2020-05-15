@@ -16,3 +16,7 @@ After spawning, you can click on the pirate fleet and select *View* to see what 
 Tier I: Level 5  
 Tier II: Level 7  
 Tier III: Level ?
+
+## How do I use the radar?
+
+*Function* // *Radar*
