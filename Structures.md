@@ -63,3 +63,19 @@ Consumes: **Gas**, **Gel**, and **Alloy**
 Provides: **Supplies**  
 Consumes: **Electricity** and **Minerals**
 
+## Population
+
+### Residence
+*When your population aren't [sic] working, they will need a place for rest and relaxation.*  
+Provides: **Labor** (**Energy Credits**)  
+Consumes: **Food**
+
+### University
+*Other than you, few people are naturally an expert in everything. Your station population will have to learn a few skills to perform their job well.*  
+Provides: **Technician** (**Energy Credits**)  
+Consumes: **Food** and **Product**
+
+### Art Complex
+*Your station residents will appreciate your masterful command skills more, if they learn how to appreciate art and express their own artistic creativity.*  
+Provides: **Researcher** (**Energy Credits** and **Research Speed Bonus**)  
+Consumes: **Food**, **Product**, and **Consumer Goods**
