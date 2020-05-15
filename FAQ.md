@@ -25,3 +25,7 @@ Use the side-scroll bar to adjust which level of pirate fleet that you wish to s
 ## How do I get Chad?
 
 Respond correctly to the daily exploration mission entitled, "*Friends?*"
+
+## Who is Chad?
+
+Next caller.
