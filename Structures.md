@@ -55,7 +55,7 @@ Consumes: **Electricity** and **Metal**
 
 ### Chemical Refinery
 *Chemical fumes and unpredictable particles are to any biological lifeform that enters without protection.*  
-Provides: **Volatile Motes**
+Provides: **Volatile Motes**  
 Consumes: **Gas**, **Gel**, and **Alloy**
 
 ### Supply Station
