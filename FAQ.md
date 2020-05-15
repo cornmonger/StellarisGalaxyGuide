@@ -19,4 +19,9 @@ Tier III: Level ?
 
 ## How do I use the radar?
 
-*Function* // *Radar*
+*Function* // *Radar*  
+Use the side-scroll bar to adjust which level of pirate fleet that you wish to spawn.
+
+## How do I get Chad?
+
+Respond correctly to the daily exploration mission entitled, "*Friends?*"
