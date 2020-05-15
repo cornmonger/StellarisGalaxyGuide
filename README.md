@@ -4,4 +4,6 @@ Information for the Stellaris Galaxy Command mobile game.
 
 ## Topics
 
-* [Structures](Structures.md)
+* [Frequently Asked Questions](FAQ.md) - Answers to common questions asked in global chat.
+* [Structures](Structures.md) - A list of structures, what they provide, and what they consume.
+
