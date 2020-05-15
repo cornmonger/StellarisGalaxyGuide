@@ -1,6 +1,10 @@
 # Structures
 
+A list of space station structures available within the game.
+
 ## Resource
+
+Resource structures operate constantly and do not consume other materials. Production cannot be halted.
 
 ### Organic Farm
 *The core agricultural unit for feeding station residents and keeping them happy.*  
@@ -27,6 +31,8 @@ Provides: **Gel** or **Gas**
 Provides: **Titanium** or **Hyperium**
 
 ## Factory
+
+Factories combine resources to make more complex materials. Factory production may be halted.
 
 ### Cornerstone Foundry
 *A foundry for refining cornerstone, which is the best basic construction material for space faring vessels.*  
@@ -64,6 +70,8 @@ Provides: **Supplies**
 Consumes: **Electricity** and **Minerals**
 
 ## Population
+
+Population structures provide an increase to your various population types, all of which provide varying amounts of energy credits. Production cannot be halted.
 
 ### Residence
 *When your population aren't [sic] working, they will need a place for rest and relaxation.*  
